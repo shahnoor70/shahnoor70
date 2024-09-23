@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahnoor Raza</h1>
-<h3 align="center">I am Learn Web Development</h3>
+<h3 align="center">I am Learning Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnoor70&label=Profile%20views&color=0e75b6&style=flat" alt="shahnoor70" /> </p>
 
